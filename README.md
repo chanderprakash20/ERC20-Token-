@@ -1,1 +1,1 @@
-# ERC20-Token-
+#This is a example ERC-20 Contract.
